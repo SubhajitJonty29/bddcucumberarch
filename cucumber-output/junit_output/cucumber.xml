@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="69.546">
+<testcase classname="Test" name="login test" time="25.809">
+<system-out><![CDATA[Given I enter URL "https://cape300.tcsapps.com/#/login?returnUrl=%2F".......passed
+When I am on home page......................................................passed
+Then I get home tiltle......................................................passed
+Then I click on My account..................................................passed
+Then I enter emailadderss "subhajitopaul@gmail.com".........................passed
+Then I enter password "Jonty"...............................................passed
+Then I click on Login.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testfeature2" name="login test for" time="43.479">
+<system-out><![CDATA[Given I enter URL "https://cape300.tcsapps.com/#/login?returnUrl=%2F".......passed
+When I am on home page......................................................passed
+Then I get home tiltle......................................................passed
+Then I click on My account..................................................passed
+Then I enter emailadderss "subhajitopaul@gmail.com".........................passed
+Then I enter password "Jonty"...............................................passed
+Then I click on Login.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
